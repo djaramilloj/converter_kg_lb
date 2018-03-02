@@ -1,9 +1,9 @@
-# converter_kg_lb
+# converter from kg to lb
 
 converter of kg to lb and viceversa
 
 ## description
-here you will be able to set a value on kg and know how that value is on lb 
+here you will be able to set a value on kg and know how that value is on lb
 here you will be able to set a value on lb and know how that value is on kg
 
 ## installing
